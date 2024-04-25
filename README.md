@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Sanjayyykumar
-- 👀 I’m interested in explorin And solving problems...
-- 🌱 I’m currently learning Engineering 7th sem CSE...
-- 💞️ I’m looking to collaborate on Android projects...
-- 📫 How to reach me 9741879958...
+**Hi there, I am Sanjay Kumar S**   
+Howdy, I'm Sanjay. I'm a passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects. I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favourite creators. Playing with new software and apps acts like dopamine for me.
 
-<!---
-Sanjayyykumar/Sanjayyykumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
