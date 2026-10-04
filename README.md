@@ -42,12 +42,11 @@ I like turning messy, real-world problems into calm, dependable systems — and 
 | **Epicure AI Labs** | Sr. Software Engineer — HRMS & clinical software, AI agents |
 | **Wipro** | Software Engineer — Nokia, Vodafone, Bharti Airtel and Chevron programs across networking, retail and PLM |
 
-## 🛠️ Things I've built
+## 🛠️ Things you would like to check ..
 
 | Project | What it is |
 |---|---|
 | 🌐 [**Portfolio**](https://sanjay-kumar-s.netlify.app/) | Hand-built, zero-dependency portfolio with a cursor-tracking animated avatar |
-
 | 🏷️ [**Idharyn Labs**](https://idharynlabs.sanjayyykumar23.workers.dev/) | My own studio for tech and creative work |
 
 *I keep building small things to stay sharp — and big things to stretch myself.*
@@ -58,12 +57,7 @@ I like turning messy, real-world problems into calm, dependable systems — and 
 - 🚩 **Habit Flagbearer — Being Responsive** (twice)
 - Appreciated for consistency, ownership and adaptability
 
-## 📊 GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjayyykumar&show_icons=true&hide_border=true&bg_color=0b0e11&title_color=8fd3c4&icon_color=8fd3c4&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayyykumar&layout=compact&hide_border=true&bg_color=0b0e11&title_color=8fd3c4&text_color=c9d1d9" alt="Top languages"/>
-</p>
 
 ## 🎮 Off the clock
 
